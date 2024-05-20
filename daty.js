@@ -5,5 +5,8 @@ const people = [
     { id: 4, name: 'kola' },
     { id: 5, name: 'cryekagi' },
   ]
+  const ooop = ()=>{
+    
+  }
   module.exports =  people 
   
